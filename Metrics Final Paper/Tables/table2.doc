@@ -1,0 +1,37 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3168\clbrdrt\brdrs\cellx4464\clbrdrt\brdrs\cellx6048\clbrdrt\brdrs\cellx7632\clbrdrt\brdrs\cellx9216
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3168\cellx4464\cellx6048\cellx7632\cellx9216
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3168\clbrdrb\brdrs\cellx4464\clbrdrb\brdrs\cellx6048\clbrdrb\brdrs\cellx7632\clbrdrb\brdrs\cellx9216
+\ql VARIABLES\cell\qc Model 1\cell\qc Model 2\cell\qc Model 3\cell\qc Model 4\cell\qc Model 5\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3168\cellx4464\cellx6048\cellx7632\cellx9216
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql MLSA_law\cell\qc -1.406\cell\qc -1.503\cell\qc -1.375\cell\qc -1.403\cell\qc -1.003\cell\row
+\ql \cell\qc (0.974)\cell\qc (0.971)\cell\qc (0.971)\cell\qc (0.973)\cell\qc (0.762)\cell\row
+\ql taxstr\cell\qc \cell\qc -1.776**\cell\qc -1.888**\cell\qc -1.831**\cell\qc -2.676***\cell\row
+\ql \cell\qc \cell\qc (0.795)\cell\qc (0.795)\cell\qc (0.802)\cell\qc (0.705)\cell\row
+\ql uer\cell\qc \cell\qc \cell\qc -0.187\cell\qc -0.193\cell\qc -0.0412\cell\row
+\ql \cell\qc \cell\qc \cell\qc (0.326)\cell\qc (0.327)\cell\qc (0.259)\cell\row
+\ql mdh\cell\qc \cell\qc \cell\qc 0.000186**\cell\qc 0.000200**\cell\qc 0.000100\cell\row
+\ql \cell\qc \cell\qc \cell\qc (8.94e-05)\cell\qc (9.33e-05)\cell\qc (7.30e-05)\cell\row
+\ql edu\cell\qc \cell\qc \cell\qc \cell\qc -0.251\cell\qc 0.658*\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.458)\cell\qc (0.368)\cell\row
+\ql MD1\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc 0.796\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc (0.801)\cell\row
+\ql Constant\cell\qc 67.54***\cell\qc 69.44***\cell\qc 59.01***\cell\qc 64.91***\cell\qc 41.94***\cell\row
+\ql \cell\qc (0.838)\cell\qc (1.191)\cell\qc (5.940)\cell\qc (12.27)\cell\qc (10.11)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 612\cell\qc 612\cell\qc 612\cell\qc 612\cell\qc 553\cell\row
+\ql R-squared\cell\qc 0.656\cell\qc 0.660\cell\qc 0.663\cell\qc 0.663\cell\qc 0.707\cell\row
+\ql Number of id\cell\qc 51\cell\qc 51\cell\qc 51\cell\qc 51\cell\qc 51\cell\row
+\ql r2_o\cell\qc 0.115\cell\qc 0.198\cell\qc 0.141\cell\qc 0.203\cell\qc 0.0161\cell\row
+\ql r2_b\cell\qc 0.000361\cell\qc 0.383\cell\qc 0.0521\cell\qc 0.307\cell\qc 0.0839\cell\row
+\ql r2_w\cell\qc 0.656\cell\qc 0.660\cell\qc 0.663\cell\qc 0.663\cell\qc 0.707\cell\row
+\ql F\cell\qc 87.40\cell\qc 81.65\cell\qc 71.50\cell\qc 66.97\cell\qc 73.32\cell\row
+\ql F_f\cell\qc 150.5\cell\qc 98.52\cell\qc 95.54\cell\qc 88.68\cell\qc 117.8\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3168\clbrdrb\brdrs\cellx4464\clbrdrb\brdrs\cellx6048\clbrdrb\brdrs\cellx7632\clbrdrb\brdrs\cellx9216
+\ql rho\cell\qc 0.926\cell\qc 0.920\cell\qc 0.925\cell\qc 0.920\cell\qc 0.960\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
