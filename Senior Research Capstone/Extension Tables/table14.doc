@@ -1,0 +1,21 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2304\clbrdrt\brdrs\cellx4032\clbrdrt\brdrs\cellx5760\clbrdrt\brdrs\cellx7488\clbrdrt\brdrs\cellx9216
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2304\cellx4032\cellx5760\cellx7488\cellx9216
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2304\clbrdrb\brdrs\cellx4032\clbrdrb\brdrs\cellx5760\clbrdrb\brdrs\cellx7488\clbrdrb\brdrs\cellx9216
+\ql VARIABLES\cell\qc vote2010_av\cell\qc vote2010_av\cell\qc vote2011_av\cell\qc vote2011_av\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2304\cellx4032\cellx5760\cellx7488\cellx9216
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql actvar\cell\qc 0.021\cell\qc 0.016\cell\qc 0.002\cell\qc -0.000\cell\row
+\ql \cell\qc (0.023)\cell\qc (0.023)\cell\qc (0.026)\cell\qc (0.026)\cell\row
+\ql actualtreatment\cell\qc 0.013\cell\qc 0.022\cell\qc 0.009\cell\qc 0.014\cell\row
+\ql \cell\qc (0.018)\cell\qc (0.018)\cell\qc (0.020)\cell\qc (0.020)\cell\row
+\ql gender\cell\qc 0.047***\cell\qc 0.038**\cell\qc 0.052***\cell\qc 0.041**\cell\row
+\ql \cell\qc (0.015)\cell\qc (0.015)\cell\qc (0.017)\cell\qc (0.017)\cell\row
+\ql Constant\cell\qc 0.346***\cell\qc -0.403**\cell\qc 0.088\cell\qc -0.564***\cell\row
+\ql \cell\qc (0.009)\cell\qc (0.162)\cell\qc (0.066)\cell\qc (0.185)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 4,636\cell\qc 4,636\cell\qc 3,497\cell\qc 3,497\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2304\clbrdrb\brdrs\cellx4032\clbrdrb\brdrs\cellx5760\clbrdrb\brdrs\cellx7488\clbrdrb\brdrs\cellx9216
+\ql R-squared\cell\qc 0.095\cell\qc 0.122\cell\qc 0.079\cell\qc 0.116\cell\row
+}
